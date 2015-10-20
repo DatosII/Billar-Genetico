@@ -12,9 +12,8 @@ TARGET = Billar-Genetico
 TEMPLATE = app
 
 
-SOURCES += main.cpp\
-        mainwindow.cpp
+SOURCES += main.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  +=
 
 FORMS    +=
